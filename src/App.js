@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react - Chnaging file to see if Docker image and container will
-          be rebuild
+          learn react
         </a>
       </header>
     </div>
